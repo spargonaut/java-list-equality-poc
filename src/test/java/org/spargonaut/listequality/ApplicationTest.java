@@ -1,4 +1,4 @@
-package org.spargonaut.firestarter;
+package org.spargonaut.listequality;
 
 import org.junit.Rule;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package org.spargonaut.firestarter;
+package org.spargonaut.listequality;
 
 public class Application {
     public static void main(String[] arguments) {

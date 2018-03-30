@@ -14,7 +14,7 @@ plugins {
 }
 
 sourceCompatibility = 1.8
-mainClassName = 'org.spargonaut.firestarter.Application'
+mainClassName = 'org.spargonaut.listequality.Application'
 
 repositories {
     mavenCentral()
@@ -26,10 +26,10 @@ dependencies {
 }
 
 shadowJar {
-    baseName = 'firestarter'
+    baseName = 'list-equality'
     classifier = 'awesome'
     version = '0.1'
     manifest {
-        attributes 'Description': 'The firestarter Application'
+        attributes 'Description': 'The list-equality Application'
     }
 }
